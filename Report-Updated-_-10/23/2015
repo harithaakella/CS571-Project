@@ -1,0 +1,253 @@
+
+
+
+Software Engineering
+Graduate project team – Incredible Coders
+
+
+Project Report: 10/28/2015
+“Nine Men Morris”
+
+
+
+Submitted to: Dr.Dianxiang Xu
+
+
+
+
+
+
+
+
+
+Cover Page
+
+Team : Incredible Coders
+Sno. 	Names of team members	Student ID 
+1	Harish Arelli	114030107
+2	Haritha Akella	114045674
+3	Nitish Dhakal	114041922
+4	Sabin Subedi	114042886
+5	Ujwal Karki	114030354
+
+
+Table of Contents
+
+•	Section I. Team Organization and Buddy Rating:
+1. Tasks division and each member’s work in detail.
+2. Table for buddy rating
+
+•	Section II: Product and sprint backlog
+1.	User stories
+2.	Acceptance criteria
+3.	Tasks
+4.	Team Meetings
+
+•	Section III. Summary of Test-Driven Development and Refactoring:
+1. Table for Test-Driven Development
+2. Table for Refactoring
+
+•	Section IV. Summary of Pair Development
+•	Section V. Lessons Learned
+
+
+
+Section I. Team organization and Buddy Rating
+
+(1)	Tasks division and each member’s work in detail :
+
+We are a team of four with expertise in different domains. Our initial challenge was selecting the programming language which we all together have decided that, we shall develop a stand-alone application in Java programming language. Haritha was the only one who had Java background. But, the team performed unexceptional hard work taking up the challenge of learning a new language and left no stone unturned in achieving the same. We had our daily standup meetings over phone and every Wednesday we arranged a face-to face meeting and discussed about what we did? What we are going to do? And where we lag? We were successful in following the scrum methodology in the best possible way with each of us being the scrum master for a week.
+
+Nithish is working in this group as a group coordinator. He has done most of the game board and controller tasks. For game board, he ***************. He had done eight hours of pair programming with other group members. He did mostly game board testing and some of the refactoring.
+Ujwal has done the programing of the ****** classes. He included *****************. He covered eight hours pair programming with other team members. He made some test cases for user interface class and also did some refactoring.
+Harish mostly worked in ********** class. He has done research in finding some useful logic. He did eight hours pair programming with other group members. He also mostly performed the testing part *************
+Savin did not have much experience in Java programming. He provided valuable response in group meeting and also helped to find out appropriate solution. He mostly did testing part. ****************** and also did eight hours pair programming with other team members.
+Haritha created a repository in Github and also arranged every group meeting following the agile practices. She has done a lot of research and shared the logic and useful IEEE paper journals with the team. She put front the idea of implementing the program using MVC framework.Since, she has much experience in user interface, did most of User Interface and GUI task in this project. She helped refactor some of the java code and worked on ********** classes. She has also done the documentation and managed to do eight hours pair programming with other team members.
+
+
+
+(2)	Table of buddy ratings:
+
+Buddy Rating
+Sno 	Names of team members 	Student ID	Member1 Rating	Member2 Rating	Member3 Rating	Member 4 Rating
+1	Harish Arelli	114030107	 1.0 	 1.0	 1.0	 1.0
+2	Haritha Akella	114045674	  1.0	 1.0	 1.0		 1.0
+3	Nitish Dhakal	114041922	  1.0	 1.0	 1.0	 1.0
+4	Sabin Subedi	114042886	  1.0	 1.0	 1.0	 1.0
+5	Ujwal Karki	114030354	  1.0	 1.0	 1.0	 1.0
+
+Section II. Product and Sprint Backlog
+
+(1)	User stories
+User story ID	User story description  	Priority	Status	Estimated effort (hours)
+1	As a team member, I need to 	A	Complete	
+2	As a team member, I need to	D	Complete	
+3	As a team member, I need to		Complete	
+4	As a team member, I need to		Complete	
+5	As a team member, I need to		Complete	
+6	As a team member, I need to		Complete	
+7	As a team member, I need to		Complete	
+8	As a team member, I need to		Complete	
+9	As a team member, I need to		Complete	
+10	As a team member, I need to		Complete	
+
+(2)	Acceptance Criteria
+User story ID	Acceptance criteria	Status
+
+User Story 1	Acceptance criterion 1	Pass
+	Acceptance criterion 2…	Pass
+User Story 2		Pass
+User Story 3		Pass
+User Story 4		Pass
+User Story 5		Pass
+User Story 6		Pass
+User Story 7		Pass
+User Story 8		Pass
+User Story 9		Pass
+User Story 10		Pass
+
+(3)	Tasks
+User story ID	Task description  	Owner (developer)	Estimated effort (hours)	Status
+Story 1	Task 1			Pass
+	Task 2			Pass
+Story 2				Pass
+Story 3				Pass
+Story 4 				Pass
+Story 5				Pass
+Story 6				Pass
+Story 7				Pass
+Story 8				Pass
+Story 9				Pass
+Story 10				Pass
+
+(4)	Team Meetings
+Meeting #	Time/place	Participants	Topics and decisions
+1	9/9/2015 – Engineering Building lobby 	All	1.	Brainstorming and previous code reviews
+2.	Finding Algorithms
+3.	To look into MVC models
+4.	Go through Java tutorial – For fresher in Java programming
+Decision: Shall build standalone application in Java. 
+2	16/9/2015 - Engineering Building lobby	All	1.	Who shall maintain documentation?
+2.	Any roadblocks in Java tutorials, doubts to be clarified.
+3.	Haritha and Nitish to perform 8 hours pair programming in building GUI.
+Create classes
+***************
+4.	Harish and Sabin to work on Java programming tutorials
+5.	Ujwal shall research on 3D graphical implementation of board and chips.
+Decision: Minutes of meeting to be maintained by the scrum master of the week in common google doc.  
+3	23/9/2015 - Engineering Building lobby	All	1.	Ujwal and Nitish to work on pair programming for 8 hours to develop classes :
+*************
+2.	Haritha and Harish to work 8 hours in pair programming on writing test cases for the code developed by Haritha and Nitish.
+3.	Sabin to continue with Java tutorials.
+4.	Should the chips be dragged and dropped on board or should be clicked?
+Decision: Chips should not be dragged, instead be clicked.
+4	30/9/2015 - Engineering Building lobby	All	1.	Ujwal and Nitish faced challenge in **********. Team ultimately, found the solution by refactoring the code.
+2.	Sabin and Nitish to work on pair programming for 8 hours writing test code for code ***********
+3.	Haritha shall write test cases first to implement test driven development for ******
+4.	Ujwal and Harish shall work on finding solution for implementing the ******** method in **** class.
+Decision: 
+1. Shall follow test driven development for *********
+2. Shall not follow MVC initially, shall implement MVC framework based on future needs.
+
+5	7/10/2015 - Engineering Building lobby	All	1.	Haritha created some development code when performing TDD, as compiler complained about few methods. Sabin, Ujwal, Haritha and Harish to work on writing development code for the rest of the test code.
+2.	Nitish updated the product backlog, by moving few more user stories to current sprint and created tasks for corresponding members.
+Decision: Difficulty in writing code - Should include more people in coding. 
+6	14/10/2015 - Engineering Building lobby	All	1.	Haritha shall start working on the documentation template & performed pair programming with Ujwal to develop 
+**************
+2.	Harish and Sabin worked on refactoring code by going through the whole code.
+3.	Nitish worked on remaining test cases
+4.	Team members have to submit the 
+Write up on lessons learnt by end of the day!
+7	21/10/2015 - Engineering Building lobby	All	1.	Final review of code to be done by Nitish, Haritha and perform necessary refactoring.
+2.	Harish and Ujwal to make sure all test cases are covered.
+3.	Sabin to review the document written by Haritha.
+4.	Team members to give buddy rating.
+
+Decision: To move the optimal solution story to product backlog from current sprint due to lack of time.
+8	23/10/2015 - Engineering Building lobby	All	1.	Extra meeting for 15minutes – retrospective meeting. Everyone shared experience on the scope for improvements and what went good!
+2.	Preparing for the presentation.
+3.	Final review of last minute tasks before submitting the code on 10/28/2015. 
+9	26/10/2015 – Engineering Building lobby	All 	1.	Presentation Demo to the team!
+2.	Working prototype demo to the team!
+3.	Pizza party!!
+
+
+
+
+Section III. Summary of Test-Driven Development and Refactoring 
+
+(1)	Provide brief descriptions of the tests (not code), including the developer name(s). Every team member should provide at least four different tests. 
+Test #	Description of test case (test input and oracle)	User story # and Task #	Developer(s)
+1			Nitish
+2			Nitish
+3			Haritha
+4			Haritha
+5			Ujwal
+6			Ujwal
+7			Sabin
+8			Sabin
+9			Harish
+10			Harish
+11			Nitish
+12			Nitish
+13			Haritha
+14			Haritha
+15			Ujwal
+16			Ujwal
+17			Sabin
+18			Sabin
+19			Harish
+20			Harish
+
+(2)	Provide brief descriptions of refactoring, including the developer name(s). Each team member should provide at least two different refactoring. 
+Refactoring #	Description of the refactoring (problem and solution)	Developer (s)
+1		Nitish
+2		Nitish
+3		Haritha
+4		Haritha
+5		Ujwal
+6		Ujwal
+7		Sabin
+8		Sabin
+9		Harish
+10		Harish
+
+Section IV. Summary of Pair Development 
+(1)	Provide the date/time, place, developer names, and tasks for each pair development session.
+	Date/time/duration	Place	Developer names	Tasks
+1	09/21/2015
+	Engineering Building Floor1 	Haritha 
+Nitish	
+2	09/25/2015	Engineering Building Floor 2	Ujwal
+Nitish	
+3	09/28/2015	Engineering Building Floor2	Haritha
+Harish	
+4	10/03/2015	Sabin’s home 
+	Sabin 
+Nitish
+
+
+	
+5	10/06/2015	Engineering Building Floor 2	Ujwal
+Harish	
+6	10/09/2015	Tutoring center 	Haritha
+Sabin	
+7	10/12/2015	Metageek lab 	Harish
+Nitish	
+8	10/14/2015	Engineering Building Floor 2	Ujwal
+Sabin 	
+9	10/18/2015	Engineering Building Floor 1	Haritha
+Ujwal	
+10	10/20/2015	Metageek lab	Harish 
+Sabin 	
+
+Section V. Lessons Learned 
+(1)	What did you personally gain from the project? 
+(2)	What does your program do well, and what could your program do better?
+(3)	How could you improve your development process if you develop a similar game from scratch?
+
+1.	Haritha 
+2.	Harish
+3.	Nitish
+4.	Sabin
+5.	Ujwal
